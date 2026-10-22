@@ -1,3 +1,5 @@
+> **Moved.** This plugin now lives in [ntholi/fivedays](https://github.com/ntholi/fivedays) (`gradingform_fivedays/`). This repo is archived.
+
 # FiveDays Rubric - Moodle Grading Form Plugin
 
 A Moodle 5.0+ advanced grading method plugin that provides flexible score ranges within rubric levels, similar to Google Classroom's rubric functionality.
